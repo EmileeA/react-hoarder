@@ -1,7 +1,12 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import './NavBar.scss';
 
 class NavBar extends React.Component {
+  static propTypes = {
+    authed: PropTypes.bool,
+  }
+
   render() {
     return (
       <div className="NavBar">
