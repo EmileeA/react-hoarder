@@ -1,5 +1,5 @@
-@import './variables';
-
+@import './variables';
+@import '~bootstrap/dist/css/bootstrap.min.css';
 
 
 body {
@@ -9,13 +9,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: $blue !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.App {
-  background-color: $blue;
-  }
