@@ -36,7 +36,7 @@ class App extends React.Component {
     return (
     <div className="App">
       <NavBar authed={authed} />
-      <Auth authed={authed} />
+      { authed === true ? (<Home />) : (<Auth authed={authed} />) }
     </div>
     );
   }
