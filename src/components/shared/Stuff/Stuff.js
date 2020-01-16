@@ -24,7 +24,7 @@ class Stuff extends React.Component {
   <div className="Stuff col-4 mb-4">
     <div className="card h-100">
     <div className="card-body">
-      <button className="btn btn-danger ml-auto close" onClick={this.deleteItemEvent}>Remove</button>
+      <button className="btn btn-danger ml-auto close" onClick={this.deleteItemEvent}>X</button>
       <h5 className="card-title">{item.itemName}</h5>
     <img className="card-img" src={item.itemImage} alt={item.itemName} />
     </div>
