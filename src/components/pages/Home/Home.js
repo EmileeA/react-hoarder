@@ -5,9 +5,13 @@ class Home extends React.Component {
   render() {
     return (
       <div ClassName="Home">
+        <div className="homeTexth1">
       <h1>Welcome!</h1>
+      </div>
+      <div className="homeTexth5">
       <h5>Whatever you're looking for is in here somewhere...</h5>
-      <img src="https://searchengineland.com/figz/wp-content/seloads/2017/07/junk-hoard-clutter-ss-1920-800x450.jpg" alt="Mah Hoard" />
+      </div>
+      <img src="https://images.unsplash.com/photo-1465433045946-ba6506ce5a59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Mah Hoard" />
       </div>
     );
   }

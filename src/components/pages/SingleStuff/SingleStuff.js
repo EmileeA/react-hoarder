@@ -39,7 +39,9 @@ class SingleStuff extends React.Component {
         <button className="btn btn-dark m-2" onClick={this.deleteItemEvent}>Delete</button>
         </div>
       <img className="w-50" src={item.itemImage} alt={item.itemName} />
+      <div className="description">
       <h4>{item.itemDescription}</h4>
+      </div>
       </div>
     );
   }
