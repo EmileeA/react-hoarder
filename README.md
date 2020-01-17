@@ -14,17 +14,17 @@ Welcome to my Hoard Knock Life! Hoarding isn't easy, so I made this hoarding app
 
 ## Screenshots
 Display on page load:
-![on load]()
+![on load](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/DisplayOnLoad.png)
 Display on Log In:
-![on log in]()
+![on log in](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/DisplayOnLogin.png)
 My Stuff:
-![My Stuff]()
+![My Stuff](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/MyStuff.png)
 View a Single Item:
-![View Single Item]()
+![View Single Item](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/View.png)
 Edit an item:
-![edit]()
+![edit](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/Edit.png)
 Add an item:
-![add item]()
+![add item](https://raw.githubusercontent.com/EmileeA/react-hoarder/master/screenshots/AddNew.png)
 
 
 
